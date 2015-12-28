@@ -1,0 +1,10 @@
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea/
+/nbproject/private/
+/storage/app/
+/public/images/growpage/*
+/public/images/profiles/*
+/vendor/
